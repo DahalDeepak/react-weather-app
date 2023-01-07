@@ -1,4 +1,3 @@
-https://dahaldeepak.github.io/react-weather-app/
 <h2> This is API based react app which consume different api to give desired output </h2>
 <h4> Here i have use weather and geoDB cities api  https://rapidapi.com/wirefreethought/api/geodb-cities/ and weather api https://openweathermap.org/api </h4>
 <h1> These are some screenshot of this project.
