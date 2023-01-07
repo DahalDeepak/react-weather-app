@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DahalDeepak/react-weather-app.git/static/css/main.255539bc.css",
-    "main.js": "/DahalDeepak/react-weather-app.git/static/js/main.a78c5444.js",
-    "static/js/787.d9312eb8.chunk.js": "/DahalDeepak/react-weather-app.git/static/js/787.d9312eb8.chunk.js",
-    "index.html": "/DahalDeepak/react-weather-app.git/index.html",
-    "main.255539bc.css.map": "/DahalDeepak/react-weather-app.git/static/css/main.255539bc.css.map",
-    "main.a78c5444.js.map": "/DahalDeepak/react-weather-app.git/static/js/main.a78c5444.js.map",
-    "787.d9312eb8.chunk.js.map": "/DahalDeepak/react-weather-app.git/static/js/787.d9312eb8.chunk.js.map"
+    "main.css": "/react-weather/static/css/main.255539bc.css",
+    "main.js": "/react-weather/static/js/main.34f5964f.js",
+    "static/js/787.d9312eb8.chunk.js": "/react-weather/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/react-weather/index.html",
+    "main.255539bc.css.map": "/react-weather/static/css/main.255539bc.css.map",
+    "main.34f5964f.js.map": "/react-weather/static/js/main.34f5964f.js.map",
+    "787.d9312eb8.chunk.js.map": "/react-weather/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.255539bc.css",
-    "static/js/main.a78c5444.js"
+    "static/js/main.34f5964f.js"
   ]
 }
