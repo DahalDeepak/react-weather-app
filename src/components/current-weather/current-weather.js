@@ -10,7 +10,7 @@ const CurrentWeather = ({ data }) => {
           <p className="weather-description">{data.weather[0].description}</p>
         </div>
         <img
-          alt="weather"
+          alt={data.weather[0].main}
           className="weather-icon"
           src={`icons/${data.weather[0].icon}.png`}
         />
